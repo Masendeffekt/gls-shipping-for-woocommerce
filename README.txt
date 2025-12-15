@@ -3,7 +3,7 @@ Contributors: goran87
 Tags: gls, shipping, woocommerce shipping
 Requires at least: 4.4
 Tested up to: 6.7
-Stable tag: 1.2.6
+Stable tag: 1.2.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -62,12 +62,6 @@ To install and configure this plugin:
 == Screenshots ==
 
 == Changelog ==
-
-= 1.2.6 =
-* Fix: Woo Store theme mobile bug fix.
-
-= 1.2.5 =
-* Fix: Fatal error on email previews.
 
 = 1.2.4 =
 * Fixed issue when changing shipping method would leave pickup info
